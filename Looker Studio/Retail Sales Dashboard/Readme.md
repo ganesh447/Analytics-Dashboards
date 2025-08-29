@@ -1,8 +1,6 @@
 
 # 🛍️ Retail Sales Dashboard (Practice Project)
 
-![Dashboard Preview](retail_sales_dashboard.pdf)
-
 ## 📌 Project Overview
 This project is a practice dashboard built using the `retail_sales_data.xlsx` dataset to analyze retail performance.  
 It highlights key **sales, profit, and customer metrics** to support data-driven decision making.
