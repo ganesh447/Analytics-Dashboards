@@ -1,5 +1,5 @@
 
-# 🛍️ Retail Sales Dashboard (Practice Project)
+# 🛍️ Retail Sales Dashboard (Exploring Looker Studio)
 
 ## 📌 Project Overview
 This project is a practice dashboard built using the `retail_sales_data.xlsx` dataset to analyze retail performance.  
