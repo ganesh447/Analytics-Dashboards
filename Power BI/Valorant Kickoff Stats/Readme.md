@@ -1,6 +1,6 @@
 # 🎮 VCT Kickoff 2025 Player & Map Performance Dashboard  
 
-![Dashboard Preview](Valorant_Dashboard.png)
+![Dashboard Preview](Valo_Dashboard.png)
 
 ## 📌 Project Overview  
 This project showcases  **VCT Kickoff 2025 statistics** across all regions.  
