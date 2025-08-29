@@ -1,0 +1,62 @@
+#,Player,Team,Agents,Maps,K,D,A,KD,KDA,ACS/Map,K/Map,D/Map,A/Map
+1,Canada florescent,Apeks | Apeks,Jett | Phoenix,5,101,87,17,1.16,1.35,257,20.2,17.4,3.4
+2,Finland Derke,Team Vitality | Team Vitality,Raze | Yoru | Jett,12,217,185,46,1.17,1.42,253,18,15.4,3.8
+3,Poland kaajak,Fnatic | Fnatic,Yoru | Raze,10,191,147,45,1.29,1.6,245,19.1,14.7,4.5
+4,United Kingdom keiko,Team Liquid | Team Liquid,Brimstone | Omen | Raze,24,436,325,149,1.34,1.8,240,18.1,13.5,6.2
+5,Turkey Alfajer,Fnatic | Fnatic,Chamber | Jett | Tejo,10,181,157,48,1.15,1.45,234,18.1,15.7,4.8
+6,Turkey xeus,FUT Esports | FUT Esports,Yoru | Raze | Neon,9,153,140,26,1.09,1.27,232,17,15.5,2.8
+7,Turkey yetujey,FUT Esports | FUT Esports,Cypher | Vyse | Viper,9,145,126,41,1.15,1.47,231,16.1,14,4.5
+8,Poland Filu,KOI | KOI,Yoru | Jett | Raze,6,92,93,20,0.98,1.2,229,15.3,15.5,3.3
+9,Turkey sociablEE,BBL Esports | BBL Esports,Chamber | Sova | Fade,11,196,175,50,1.12,1.4,228,17.8,15.9,4.5
+10,Poland kamo,Team Liquid | Team Liquid,Jett | Raze | Yoru,24,381,364,77,1.04,1.25,220,15.8,15.1,3.2
+11,Czechia Minny,Gentle Mates | Gentle Mates,Cypher | Killjoy | Yoru,10,151,120,32,1.25,1.52,219,15.1,12,3.2
+12,Russia purp0,GIANTX | GIANTX,Raze | Jett,8,137,134,23,1.02,1.19,218,17.1,16.7,2.8
+13,Turkey Ruxic,Natus Vincere | Natus Vincere,Brimstone | Omen | Astra,6,96,92,49,1.04,1.57,216,16,15.3,8.1
+14,Sweden Sayf,Team Vitality | Team Vitality,Tejo | Iso | Omen,12,195,160,60,1.21,1.59,214,16.2,13.3,5
+15,Germany Click,Gentle Mates | Gentle Mates,Jett | Neon | Raze,10,155,138,17,1.12,1.24,210,15.5,13.8,1.7
+16,Egypt avez,Karmine Corp | Karmine Corp,Fade | Gekko | Tejo,9,144,133,59,1.08,1.52,209,16,14.7,6.5
+17,Russia Cloud,GIANTX | GIANTX,Fade | Sova | Vyse,8,125,121,45,1.03,1.4,206,15.6,15.1,5.6
+18,Turkey RieNs,Team Heretics | Team Heretics,Sova | Skye | Tejo,10,140,137,51,1.02,1.39,205,14,13.7,5.1
+19,Turkey LêwN,BBL Esports | BBL Esports,Yoru | Raze | Jett,11,179,182,46,0.98,1.23,205,16.2,16.5,4.1
+20,Turkey Wo0t,Team Heretics | Team Heretics,Astra | Tejo | Chamber,10,132,128,82,1.03,1.67,205,13.2,12.8,8.2
+21,Czechia marteen,Karmine Corp | Karmine Corp,Yoru,9,144,148,38,0.97,1.22,204,16,16.4,4.2
+22,Poland kamyk,Team Liquid | Team Liquid,Tejo | Sova | Gekko,24,352,319,138,1.1,1.53,202,14.6,13.2,5.7
+23,Poland PROFEK,BBL Esports | BBL Esports,Astra | Omen,11,180,168,75,1.07,1.51,201,16.3,15.2,6.8
+24,Canada koalanoob,Natus Vincere | Natus Vincere,Jett | Raze | Yoru,6,92,98,22,0.93,1.16,201,15.3,16.3,3.6
+25,Russia nAts,Team Liquid | Team Liquid,Cypher | Viper | Fade,24,348,340,130,1.02,1.4,200,14.5,14.1,5.4
+26,Lithuania MiniBoo,Team Heretics | Team Heretics,Raze | Jett | Yoru,10,130,142,35,0.91,1.16,197,13,14.2,3.5
+27,Brazil Less,Team Vitality | Team Vitality,Viper | Cypher | Astra,12,173,150,79,1.15,1.68,196,14.4,12.5,6.5
+28,Russia Chronicle,Fnatic | Fnatic,Breach | Cypher | Astra,10,149,135,75,1.1,1.65,196,14.9,13.5,7.5
+29,Estonia Kicks,Team Vitality | Team Vitality,Breach | Omen | Skye,12,168,168,117,1,1.69,194,14,14,9.7
+30,Non-representing SUYGETSU,Karmine Corp | Karmine Corp,Astra | Omen,9,137,125,84,1.09,1.76,194,15.2,13.8,9.3
+31,Russia trexx,Team Vitality | Team Vitality,Sova | Brimstone | Fade,12,157,156,96,1,1.62,194,13,13,8
+32,Finland Jamppi,BBL Esports | BBL Esports,Breach | Sova | Fade,11,157,178,83,0.88,1.34,189,14.2,16.1,7.5
+33,United Kingdom soulcas,KOI | KOI,Vyse | Cypher | Viper,6,79,85,28,0.92,1.25,185,13.1,14.1,4.6
+34,United States oderus,Apeks | Apeks,Sova | Fade,2,31,34,13,0.91,1.29,184,15.5,17,6.5
+35,Argentina Saadhak,Karmine Corp | Karmine Corp,Harbor | Deadlock | Breach,9,127,131,67,0.96,1.48,184,14.1,14.5,7.4
+36,Non-representing Shao,Natus Vincere | Natus Vincere,Breach | Sova | Gekko,6,90,79,38,1.13,1.62,184,15,13.1,6.3
+37,Portugal tomaszy,GIANTX | GIANTX,Omen | Astra | Brimstone,8,116,128,73,0.9,1.47,183,14.5,16,9.1
+38,France K4DAVRA,Gentle Mates | Gentle Mates,Astra | Omen | Brimstone,10,122,119,70,1.02,1.61,182,12.2,11.9,7
+39,Sweden Zyppan,Gentle Mates | Gentle Mates,Breach | KAY/O | Omen,10,121,133,82,0.9,1.52,180,12.1,13.3,8.2
+40,Turkey qRaxs,FUT Esports | FUT Esports,KAY/O | Fade,9,110,130,74,0.84,1.41,179,12.2,14.4,8.2
+41,Denmark AvovA,Apeks | Apeks,Astra | Omen,5,68,80,37,0.85,1.31,175,13.6,16,7.4
+42,Poland paTiTek,Team Liquid | Team Liquid,Breach | KAY/O | Skye,24,302,309,180,0.97,1.55,174,12.5,12.8,7.5
+43,Lithuania hype,Apeks | Apeks,Killjoy | Cypher,5,66,84,18,0.78,1,173,13.2,16.8,3.6
+44,Turkey ATA KAPTAN,FUT Esports | FUT Esports,Astra | Omen | Viper,9,106,134,67,0.79,1.29,171,11.7,14.8,7.4
+45,North Macedonia runneR,GIANTX | GIANTX,Breach | Vyse | Skye,8,100,123,70,0.81,1.38,170,12.5,15.3,8.7
+46,Turkey Elite,Karmine Corp | Karmine Corp,Vyse | Killjoy | Cypher,9,120,125,47,0.96,1.33,170,13.3,13.8,5.2
+47,United Kingdom Boaster,Fnatic | Fnatic,Brimstone | Omen | Astra,10,127,140,100,0.9,1.62,170,12.7,14,10
+48,Netherlands hiro,Natus Vincere | Natus Vincere,Vyse | Cypher | Omen,6,79,92,37,0.85,1.26,169,13.1,15.3,6.1
+49,United States flyuh,KOI | KOI,Killjoy | KAY/O | Cypher,6,70,91,29,0.76,1.08,169,11.6,15.1,4.8
+50,Poland GRUBINHO,KOI | KOI,Omen | Astra | Brimstone,6,73,82,46,0.89,1.45,168,12.1,13.6,7.6
+51,Turkey MrFaliN,FUT Esports | FUT Esports,Breach | Tejo | Sova,9,101,120,59,0.84,1.33,165,11.2,13.3,6.5
+52,Poland westside,GIANTX | GIANTX,Killjoy | Viper,8,101,129,42,0.78,1.1,164,12.6,16.1,5.2
+53,United Kingdom benjyfishy,Team Heretics | Team Heretics,Killjoy | Cypher | Tejo,10,109,136,39,0.8,1.08,162,10.9,13.6,3.9
+54,Lithuania Boo,Team Heretics | Team Heretics,Astra | Omen | KAY/O,10,102,134,102,0.76,1.52,156,10.2,13.4,10.2
+55,Turkey batujnax,Apeks | Apeks,Sova | Yoru,3,38,52,17,0.73,1.05,156,12.6,17.3,5.6
+56,United States crashies,Fnatic | Fnatic,Sova | Breach,10,119,131,49,0.9,1.28,155,11.9,13.1,4.9
+57,Russia Sheydos,KOI | KOI,Tejo | Sova,6,63,84,22,0.75,1.01,154,10.5,14,3.6
+58,Netherlands RobbieBk,Gentle Mates | Gentle Mates,Sova | Fade | Tejo,10,95,124,56,0.76,1.21,154,9.5,12.4,5.6
+59,Lithuania vakk,BBL Esports | BBL Esports,Vyse | Cypher | Astra,11,135,175,60,0.77,1.11,151,12.2,15.9,5.4
+60,Poland MOLSI,Apeks | Apeks,Breach | KAY/O | Sova,5,55,79,51,0.69,1.34,150,11,15.8,10.2
+61,Ukraine ANGE1,Natus Vincere | Natus Vincere,KAY/O | Sova | Fade,6,60,95,38,0.63,1.03,148,10,15.8,6.3

@@ -1,0 +1,66 @@
+#,Player,Team,Agents,Maps,K,D,A,KD,KDA,ACS/Map,K/Map,D/Map,A/Map
+1,Canada mada,NRG | NRG,Raze | Neon | Jett,8,178,130,35,1.36,1.63,277,22.2,16.2,4.3
+2,Canada penny,FURIA | FURIA,Raze | Jett,2,37,22,8,1.68,2.04,266,18.5,11,4
+3,Brazil aspas,MIBR | MIBR,Jett | Raze,17,332,241,48,1.37,1.57,249,19.5,14.1,2.8
+4,Brazil gobera,2GAME Esports | 2GAME Esports,Vyse | Jett | Omen,4,58,54,20,1.07,1.44,239,14.5,13.5,5
+5,Brazil dgzin,LOUD | LOUD,Raze | Jett,9,175,130,25,1.34,1.53,239,19.4,14.4,2.7
+6,United States Asuna,100 Thieves | 100 Thieves,Raze | Neon | KAY/O,8,132,122,47,1.08,1.46,234,16.5,15.2,5.8
+7,United States Cryocells,100 Thieves | 100 Thieves,Brimstone | Jett | Clove,8,138,115,41,1.2,1.55,234,17.2,14.3,5.1
+8,United States leaf,G2 Esports | G2 Esports,Chamber | Vyse | Viper,11,186,146,44,1.27,1.57,230,16.9,13.2,4
+9,United States OXY,Cloud9 | Cloud9,Raze | Jett | Yoru,7,118,127,30,0.92,1.16,222,16.8,18.1,4.2
+10,United States jakee,FURIA | FURIA,Omen | Clove,2,29,25,18,1.15,1.88,221,14.5,12.5,9
+11,Brazil havoc,FURIA | FURIA,Raze | Jett,4,57,66,18,0.86,1.13,220,14.2,16.5,4.5
+12,United States zekken,Sentinels | Sentinels,Yoru | Jett | Raze,17,291,264,81,1.1,1.4,220,17.1,15.5,4.7
+13,United States trent,G2 Esports | G2 Esports,Sova | Tejo,11,179,126,47,1.42,1.79,217,16.2,11.4,4.2
+14,United States jawgemo,G2 Esports | G2 Esports,Yoru | Raze,11,167,169,66,0.98,1.37,217,15.1,15.3,6
+15,United States icy,Evil Geniuses | Evil Geniuses,Raze | Jett,6,95,99,20,0.95,1.16,217,15.8,16.5,3.3
+16,Chile kiNgg,Leviatán | Leviatán,Omen | Astra | Breach,7,112,104,57,1.07,1.62,216,16,14.8,8.1
+17,United States s0m,NRG | NRG,Brimstone | Omen | Viper,8,138,125,81,1.1,1.75,215,17.2,15.6,10.1
+18,Chile keznitdeuS,KRÜ Esports | KRÜ Esports,Raze | Jett,12,183,167,40,1.09,1.33,215,15.2,13.9,3.3
+19,Chile Shyy,KRÜ Esports | KRÜ Esports,Cypher | Viper | Vyse,12,188,154,56,1.22,1.58,213,15.6,12.8,4.6
+20,United States bdog,FURIA | FURIA,Breach,2,28,21,21,1.33,2.33,212,14,10.5,10.5
+21,Brazil cauanzin,LOUD | LOUD,Sova | Skye | Tejo,9,142,153,49,0.92,1.24,211,15.7,17,5.4
+22,Brazil khalil,FURIA | FURIA,Omen | Brimstone,4,62,58,21,1.06,1.43,211,15.5,14.5,5.2
+23,France nataNk,Leviatán | Leviatán,Fade | Skye | Breach,7,104,97,56,1.07,1.64,207,14.8,13.8,8
+24,United States stellar,FURIA | FURIA,Tejo,2,29,24,11,1.2,1.66,204,14.5,12,5.5
+25,Chile Melser,KRÜ Esports | KRÜ Esports,Omen | Astra | Brimstone,12,182,148,88,1.22,1.82,204,15.1,12.3,7.3
+26,United States Zellsis,Sentinels | Sentinels,Vyse | Viper | KAY/O,17,254,261,129,0.97,1.46,200,14.9,15.3,7.5
+27,Canada eeiu,100 Thieves | 100 Thieves,Fade | Tejo,8,129,107,55,1.2,1.71,198,16.1,13.3,6.8
+28,United States Demon1,Leviatán | Leviatán,Raze | Jett | Brimstone,7,103,111,44,0.92,1.32,198,14.7,15.8,6.2
+29,United States C0M,Leviatán | Leviatán,Viper | Sova | Tejo,7,103,106,38,0.97,1.33,196,14.7,15.1,5.4
+30,United States Xeppaa,Cloud9 | Cloud9,Tejo | Sova | Fade,7,107,115,41,0.93,1.28,195,15.2,16.4,5.8
+31,United States add3r,FURIA | FURIA,Cypher | Vyse,2,28,28,3,1,1.1,195,14,14,1.5
+32,United States yay,Evil Geniuses | Evil Geniuses,Astra | Chamber | Phoenix,6,85,89,25,0.95,1.23,194,14.1,14.8,4.1
+33,United States N4RRATE,Sentinels | Sentinels,Fade | Breach | Omen,17,244,258,140,0.94,1.48,194,14.3,15.1,8.2
+34,Brazil pANcada,LOUD | LOUD,Astra | Omen | Brimstone,9,142,131,63,1.08,1.56,193,15.7,14.5,7
+35,Brazil artziN,MIBR | MIBR,KAY/O | Raze | Viper,17,243,288,112,0.84,1.23,193,14.2,16.9,6.5
+36,United States supamen,Evil Geniuses | Evil Geniuses,Omen | Astra | Brimstone,6,88,87,37,1.01,1.43,190,14.6,14.5,6.1
+37,United States bang,Sentinels | Sentinels,Astra | Omen | Viper,17,242,252,152,0.96,1.56,189,14.2,14.8,8.9
+38,Brazil silentzz,2GAME Esports | 2GAME Esports,Yoru | Raze,4,44,62,11,0.7,0.88,188,11,15.5,2.7
+39,United States Ethan,NRG | NRG,Tejo | Omen | Breach,8,114,121,81,0.94,1.61,188,14.2,15.1,10.1
+40,United States valyn,G2 Esports | G2 Esports,Astra | Brimstone | Omen,11,145,141,89,1.02,1.65,187,13.1,12.8,8
+41,United States tex,Leviatán | Leviatán,Cypher | Killjoy | Vyse,7,104,95,14,1.09,1.24,187,14.8,13.5,2
+42,Morocco johnqt,Sentinels | Sentinels,Tejo | Sova | Viper,17,242,231,100,1.04,1.48,186,14.2,13.5,5.8
+43,Chile adverso,KRÜ Esports | KRÜ Esports,Viper | Sova,12,157,169,77,0.92,1.38,186,13,14,6.4
+44,Brazil cortezia,MIBR | MIBR,Cypher | Viper | Killjoy,17,245,267,67,0.91,1.16,184,14.4,15.7,3.9
+45,Chile Mazino,KRÜ Esports | KRÜ Esports,Skye | Breach | KAY/O,12,159,178,110,0.89,1.51,182,13.2,14.8,9.1
+46,Brazil xenom,MIBR | MIBR,Astra | Omen | Brimstone,17,247,240,155,1.02,1.67,182,14.5,14.1,9.1
+47,Canada JonahP,G2 Esports | G2 Esports,Breach | Vyse,11,144,138,113,1.04,1.86,179,13,12.5,10.2
+48,United States Derrek,Evil Geniuses | Evil Geniuses,Sova | Skye | Tejo,6,78,94,44,0.82,1.29,175,13,15.6,7.3
+49,United States neT,Cloud9 | Cloud9,Deadlock | Astra | Cypher,7,95,110,35,0.86,1.18,175,13.5,15.7,5
+50,United States v1c,Cloud9 | Cloud9,Omen | Brimstone | Astra,7,92,101,60,0.91,1.5,174,13.1,14.4,8.5
+51,Brazil heat,FURIA | FURIA,Cypher | Viper,4,49,59,7,0.83,0.94,173,12.2,14.7,1.7
+52,Argentina nzr,MIBR | MIBR,Sova | Skye | Breach,17,216,250,122,0.86,1.35,172,12.7,14.7,7.1
+53,United States Verno,NRG | NRG,Fade | Sova | Vyse,8,116,120,42,0.96,1.31,172,14.5,15,5.2
+54,United States NaturE,Evil Geniuses | Evil Geniuses,Vyse | Viper | Breach,6,77,86,36,0.89,1.31,172,12.8,14.3,6
+55,Canada Zander,100 Thieves | 100 Thieves,Astra | Viper | Omen,8,100,113,56,0.88,1.38,171,12.5,14.1,7
+56,Brazil lz,2GAME Esports | 2GAME Esports,Omen | Astra | Tejo,4,42,57,18,0.73,1.05,171,10.5,14.2,4.5
+57,Brazil mwzera,FURIA | FURIA,Sova | Skye | Breach,4,44,55,23,0.8,1.21,166,11,13.7,5.7
+58,United States mitch,Cloud9 | Cloud9,Breach | Tejo | KAY/O,7,79,111,71,0.71,1.35,163,11.2,15.8,10.1
+59,Brazil tuyz,LOUD | LOUD,Cypher | Deadlock,9,113,134,50,0.84,1.21,159,12.5,14.8,5.5
+60,Brazil v1nNy,LOUD | LOUD,Breach | KAY/O,9,111,135,79,0.82,1.4,154,12.3,15,8.7
+61,Brazil pryze,2GAME Esports | 2GAME Esports,Breach | Viper | Sova,4,32,52,21,0.61,1.01,149,8,13,5.2
+62,Canada FNS,NRG | NRG,Breach | Vyse | Viper,8,86,126,59,0.68,1.15,145,10.7,15.7,7.3
+63,United States Boostio,100 Thieves | 100 Thieves,Gekko | Breach | Killjoy,8,81,119,56,0.68,1.15,138,10.1,14.8,7
+64,Brazil raafa,FURIA | FURIA,Sage | Breach | KAY/O,4,35,63,20,0.55,0.87,136,8.7,15.7,5
+65,Brazil zap,2GAME Esports | 2GAME Esports,Tejo | Breach | Omen,4,28,57,17,0.49,0.78,128,7,14.2,4.2

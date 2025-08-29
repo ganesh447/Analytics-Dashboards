@@ -1,0 +1,62 @@
+#,Player,Team,Agents,Maps,K,D,A,KD,KDA,ACS/Map,K/Map,D/Map,A/Map
+1,Russia Jemkin,Rex Regum Qeon | Rex Regum Qeon,Jett | Raze | Brimstone,12,245,190,60,1.28,1.6,257,20.4,15.8,5
+2,South Korea HYUNMIN,DRX | DRX,Raze | Jett,13,255,221,49,1.15,1.37,245,19.6,17,3.7
+3,Japan Meiy,DetonatioN FocusMe | DetonatioN FocusMe,Jett | Raze | Neon,9,159,131,29,1.21,1.43,241,17.6,14.5,3.2
+4,South Korea BuZz,T1 | T1,Raze | Yoru | Neon,22,391,362,101,1.08,1.35,237,17.7,16.4,4.5
+5,Thailand Primmie,TALON | TALON,Deadlock | Tejo | Clove,11,189,145,42,1.3,1.59,235,17.1,13.1,3.8
+6,Indonesia famouz,BOOM Esports | BOOM Esports,Neon | Raze,6,97,91,24,1.06,1.32,231,16.1,15.1,4
+7,Japan Dep,ZETA DIVISION | ZETA DIVISION,Neon | Raze,4,65,63,16,1.03,1.28,227,16.2,15.7,4
+8,South Korea t3xture,Gen.G Esports | Gen.G Esports,Raze | Jett | Neon,14,248,222,41,1.11,1.3,222,17.7,15.8,2.9
+9,South Korea free1ng,DRX | DRX,Tejo,13,241,195,70,1.23,1.59,222,18.5,15,5.3
+10,Indonesia Kushy,Rex Regum Qeon | Rex Regum Qeon,Sova | Fade,12,200,175,86,1.14,1.63,222,16.6,14.5,7.1
+11,Indonesia f0rsakeN,Paper Rex | Paper Rex,Skye | Killjoy | Deadlock,7,111,101,53,1.09,1.62,222,15.8,14.4,7.5
+12,South Korea Francis,Nongshim RedForce | Nongshim RedForce,Fade | Tejo | Breach,14,235,219,126,1.07,1.64,219,16.7,15.6,9
+13,South Korea Dambi,Nongshim RedForce | Nongshim RedForce,Neon | Raze,14,226,258,111,0.87,1.3,218,16.1,18.4,7.9
+14,Singapore Jinggg,Paper Rex | Paper Rex,Raze | Phoenix | Cypher,7,108,98,23,1.1,1.33,218,15.4,14,3.2
+15,South Korea UdoTan,Global Esports | Global Esports,Jett | Raze | Deadlock,8,125,125,22,1,1.17,218,15.6,15.6,2.7
+16,Philippines JessieVash,Team Secret | Team Secret,Sova | Cypher | Fade,6,87,80,25,1.08,1.4,218,14.5,13.3,4.1
+17,Philippines Jremy,Team Secret | Team Secret,Jett | Raze,6,83,83,9,1,1.1,215,13.8,13.8,1.5
+18,Russia something,Paper Rex | Paper Rex,Jett | Breach | Fade,7,103,102,31,1,1.31,211,14.7,14.5,4.4
+19,Indonesia BerserX,BOOM Esports | BOOM Esports,Killjoy | Vyse | Cypher,6,92,77,22,1.19,1.48,209,15.3,12.8,3.6
+20,Russia Kr1stal,Global Esports | Global Esports,Sova | Fade | Tejo,8,115,107,46,1.07,1.5,207,14.3,13.3,5.7
+21,South Korea Karon,Gen.G Esports | Gen.G Esports,Omen | Brimstone | Astra,14,224,179,138,1.25,2.02,205,16,12.7,9.8
+22,South Korea MaKo,DRX | DRX,Brimstone | Omen | Astra,13,210,193,143,1.08,1.82,205,16.1,14.8,11
+23,South Korea Meteor,T1 | T1,Iso | Vyse | Killjoy,22,346,357,86,0.96,1.21,203,15.7,16.2,3.9
+24,South Korea Munchkin,Gen.G Esports | Gen.G Esports,Viper | KAY/O | Breach,14,205,199,113,1.03,1.59,202,14.6,14.2,8
+25,South Korea akame,DetonatioN FocusMe | DetonatioN FocusMe,KAY/O | Vyse | Breach,9,123,131,58,0.93,1.38,202,13.6,14.5,6.4
+26,South Korea Ivy,Nongshim RedForce | Nongshim RedForce,Vyse | Viper | Astra,14,232,200,112,1.15,1.72,196,16.5,14.2,8
+27,South Korea Foxy9,Gen.G Esports | Gen.G Esports,Killjoy | Gekko | Cypher,14,211,204,48,1.03,1.26,194,15,14.5,3.4
+28,Malaysia d4v41,Paper Rex | Paper Rex,Killjoy | Sage | Skye,7,97,98,44,0.98,1.43,194,13.8,14,6.2
+29,South Korea Persia,Nongshim RedForce | Nongshim RedForce,Astra | Omen | Brimstone,14,216,203,151,1.06,1.8,191,15.4,14.5,10.7
+30,Thailand JitboyS,TALON | TALON,Astra | Omen | Brimstone,11,154,143,69,1.07,1.55,190,14,13,6.2
+31,Indonesia monyet,Rex Regum Qeon | Rex Regum Qeon,Omen | Phoenix | Neon,12,179,175,87,1.02,1.52,188,14.9,14.5,7.2
+32,South Korea Flashback,DRX | DRX,Cypher | Viper | Vyse,13,188,197,74,0.95,1.32,184,14.4,15.1,5.6
+33,South Korea iZu,T1 | T1,Cypher | Gekko | Tejo,22,321,316,108,1.01,1.35,184,14.5,14.3,4.9
+34,South Korea ban,TALON | TALON,Gekko | Deadlock | Cypher,11,139,148,44,0.93,1.23,184,12.6,13.4,4
+35,South Korea Estrella,Rex Regum Qeon | Rex Regum Qeon,Breach | Astra | Viper,12,173,166,125,1.04,1.79,181,14.4,13.8,10.4
+36,South Korea carpe,T1 | T1,Omen | Brimstone | Astra,13,187,206,159,0.9,1.67,181,14.3,15.8,12.2
+37,South Korea margaret,Nongshim RedForce | Nongshim RedForce,Cypher | Vyse | Killjoy,14,206,215,73,0.95,1.29,181,14.7,15.3,5.2
+38,Indonesia xffero,Rex Regum Qeon | Rex Regum Qeon,Vyse | Killjoy | Astra,12,177,173,68,1.02,1.41,181,14.7,14.4,5.6
+39,Kazakhstan dos9,BOOM Esports | BOOM Esports,Brimstone | Astra | Omen,6,77,86,50,0.89,1.47,180,12.8,14.3,8.3
+40,Japan SyouTa,ZETA DIVISION | ZETA DIVISION,Cypher | Chamber,4,53,70,9,0.75,0.88,178,13.2,17.5,2.2
+41,Japan Art,DetonatioN FocusMe | DetonatioN FocusMe,Sova | Skye | Tejo,9,104,130,54,0.8,1.21,177,11.5,14.4,6
+42,South Korea Sylvan,T1 | T1,Brimstone | Omen | Astra,9,111,128,98,0.86,1.63,176,12.3,14.2,10.8
+43,Japan SugarZ3ro,ZETA DIVISION | ZETA DIVISION,Omen | Brimstone,4,47,65,34,0.72,1.24,176,11.7,16.2,8.5
+44,Philippines kellyS,Global Esports | Global Esports,Deadlock | Vyse | Breach,8,97,123,52,0.78,1.21,175,12.1,15.3,6.5
+45,Indonesia Shiro,BOOM Esports | BOOM Esports,KAY/O | Viper | Tejo,6,72,88,57,0.81,1.46,175,12,14.6,9.5
+46,Philippines PapiChulo,Global Esports | Global Esports,Astra | Omen,8,103,104,52,0.99,1.49,174,12.8,13,6.5
+47,Japan Xdll,ZETA DIVISION | ZETA DIVISION,Fade | Sova | Tejo,4,49,70,8,0.7,0.81,174,12.2,17.5,2
+48,Philippines invy,Team Secret | Team Secret,KAY/O | Deadlock | Breach,6,66,83,50,0.79,1.39,174,11,13.8,8.3
+49,United States Governor,TALON | TALON,Raze | Neon | Sova,11,126,163,35,0.77,0.98,174,11.4,14.8,3.1
+50,South Korea yoman,Gen.G Esports | Gen.G Esports,Fade | Sova | Breach,14,185,185,93,1,1.5,172,13.2,13.2,6.6
+51,South Korea stax,T1 | T1,Sova | Breach | KAY/O,22,292,314,190,0.92,1.53,170,13.2,14.2,8.6
+52,South Korea Jinboong,DetonatioN FocusMe | DetonatioN FocusMe,Astra | Cypher | Killjoy,9,111,121,41,0.91,1.25,169,12.3,13.4,4.5
+53,Indonesia mindfreak,Paper Rex | Paper Rex,Brimstone | Omen | Astra,7,82,99,62,0.82,1.45,168,11.7,14.1,8.8
+54,Japan gyen,DetonatioN FocusMe | DetonatioN FocusMe,Omen | Astra,9,110,122,51,0.9,1.31,168,12.2,13.5,5.6
+55,Philippines 2GE,Team Secret | Team Secret,Omen | Astra,6,63,78,37,0.8,1.28,166,10.5,13,6.1
+56,Philippines Wild0reoo,Team Secret | Team Secret,Killjoy | Skye | Viper,6,59,78,16,0.75,0.96,164,9.8,13,2.6
+57,South Korea BeYN,DRX | DRX,Sova | Breach | Fade,13,165,187,118,0.88,1.51,160,12.6,14.3,9
+58,Singapore Deryeon,Global Esports | Global Esports,Cypher | Chamber | Killjoy,8,95,107,29,0.88,1.15,155,11.8,13.3,3.6
+59,Indonesia NcSlasher,BOOM Esports | BOOM Esports,Fade | Breach,6,64,90,40,0.71,1.15,148,10.6,15,6.6
+60,Thailand Crws,TALON | TALON,Fade | Breach | Skye,11,107,151,68,0.7,1.15,146,9.7,13.7,6.1
+61,Japan CLZ,ZETA DIVISION | ZETA DIVISION,Breach,4,41,63,27,0.65,1.07,142,10.2,15.7,6.7
